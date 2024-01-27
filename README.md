@@ -2,7 +2,7 @@ Hi, I’m Onyedikachi Ezeobi
 
 I’m interested in backend engineering and software development. 
 
-I have work with python and Mysql for database administration and currently learning mongoDB for NoSQL database implementation. 
+I work with python and Mysql for database administration and currently learning mongoDB for NoSQL database implementation. 
 
 I look forward for collaborative in building different python applications 
 
