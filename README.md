@@ -2,9 +2,9 @@ Hi, I’m Onyedikachi Ezeobi
 
 I’m interested in backend engineering and software development. 
 
-I have advanced knowledge of Mysql administration and currently learning python programming language and mongoDB
+I have work with python and Mysql for database administration and currently learning mongoDB for NoSQL database implementation. 
 
-I’m looking to collaborate in building python applications
+I look forward for collaborative in building different python applications 
 
 How to reach me 08104807107 
 
